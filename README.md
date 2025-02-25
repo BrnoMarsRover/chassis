@@ -1,27 +1,27 @@
 # Drivers
 We use EPOS 4 maxon motor control.
 
-###Front left wheel
+### Front left wheel
 - Name: FL-1
 - Can ID: 1
 
-###Middle left wheel
+### Middle left wheel
 - Name: CL-3
 - Can ID: 3
 
-###Rear left wheel
+### Rear left wheel
 - Name: RL-5
 - Can ID: 5
   
-###Front right wheel
+### Front right wheel
 - Name: FR-2
 - Can ID: 2
   
-###Middle right wheel
+### Middle right wheel
 - Name: CR-4
 - Can ID: 4
   
-###Rear right wheel
+### Rear right wheel
 - Name: RR-6
 - Can ID: 6
 
