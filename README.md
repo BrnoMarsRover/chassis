@@ -1,31 +1,3 @@
-# Drivers
-We use EPOS 4 maxon motor control.
-
-### Front left wheel
-- Name: FL-1
-- Can ID: 1
-
-### Middle left wheel
-- Name: CL-3
-- Can ID: 3
-
-### Rear left wheel
-- Name: RL-5
-- Can ID: 5
-  
-### Front right wheel
-- Name: FR-2
-- Can ID: 2
-  
-### Middle right wheel
-- Name: CR-4
-- Can ID: 4
-  
-### Rear right wheel
-- Name: RR-6
-- Can ID: 6
-
-
 # Rover-Parts
 ---
 ## Chassis
@@ -112,3 +84,47 @@ Total Mass: 2.65kg
 ## Sensors
 - Velodyne PUCK
 - Lidar Livox MID-70
+
+
+# Rover-Price
+---
+## Rover
+### Locomotion subsystem
+- Legs 2x45$ = 90$
+  - 1m alu profiles: 30$
+  - 500g PETG: 15$
+- Wheels 6x = $
+  - VarioShore: 60$
+  - PETG: 10$
+  - Maxon DCX:
+  - Stepper motor with gearbox: 120$
+- Chassis 1x = $
+  - Alu extrusions: 40$
+  - Stones: 60$
+  - Alu plates: 80$
+         
+### Electronics
+- Power 1x430$ = 430$
+  - Battery: 300$
+  - DCDC convertor: 4x40$ = 80$
+  - PCB: 50$
+- Networks 1x
+  - Switch: 10$
+  - Router: 20$
+- Drivers 6x560$ = 3360$
+- Computing devices: 650$
+  - Intel NUC: 560$
+  - RaspberryPi4: 90$
+  
+### Sensors
+
+### Manipulator
+
+### Drilling machine
+
+## Drone
+
+## Development
+- Manipulator ARCTOS - 500$ UAMT
+
+## Others
