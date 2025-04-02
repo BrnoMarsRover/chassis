@@ -93,22 +93,22 @@ Total Mass: 2.65kg
 - Legs 2x45$ = 90$
   - 1m alu profiles: 30$
   - 500g PETG: 15$
-- Wheels 6x = $
+- Wheels 6x1040 = 6240$
   - VarioShore: 60$
   - PETG: 10$
-  - Maxon DCX:
+  - Maxon DCX: 850$
   - Stepper motor with gearbox: 120$
-- Chassis 1x = $
+- Chassis 1x180 = 180$
   - Alu extrusions: 40$
   - Stones: 60$
   - Alu plates: 80$
          
 ### Electronics
-- Power 1x430$ = 430$
+- Power 1x510$ = 510$
   - Battery: 300$
-  - DCDC convertor: 4x40$ = 80$
+  - DCDC convertor: 4x40$ = 160$
   - PCB: 50$
-- Networks 1x
+- Networks 1x30$ = 30$
   - Switch: 10$
   - Router: 20$
 - Drivers 6x560$ = 3360$
@@ -121,8 +121,23 @@ Total Mass: 2.65kg
 ### Manipulator
 
 ### Drilling machine
+- Mechanics = 350$
+- Electronics = 200$
+- Development = 150$
 
 ## Drone
+- Locomotion subsystem: 1x200$
+  - Frame F450 with motors, ESC and propelers = 200$
+- Electronics = 1880$
+  - Jetson orin nx = 1000$
+  - Battery = 2x150$
+  - RC Transmitter = 250$
+  - RC Receiver = 30$
+  - Pixhawk Black Cube = 300$
+- Sensors = 510$
+  - Lidar1D = 160$
+  - Lidar2D = 350$
+  - Camera = ??
 
 ## Development
 - Manipulator ARCTOS - 500$ UAMT
